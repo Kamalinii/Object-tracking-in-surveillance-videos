@@ -1,0 +1,8 @@
+streamlit==1.25.0
+opencv-python==4.8.0.76
+numpy==1.24.4
+Pillow==9.3.0
+matplotlib==3.8.2
+imageai==3.0.3
+yolo models
+other tracking libraries
